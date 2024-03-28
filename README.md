@@ -1,4 +1,8 @@
-### Hi there 👋
+### 🌱 About me: 
+I'm Vivian Huynh, current undergraduate student at the University of Arizona. I am studying information science with an emphasis in data science, along with a minor in computer science. My passion for technology and its transformative potential in today's dynamic world has driven me to explore the exciting realms of data analysis, information management, and technological innovation. 
+
+I am enthusiastic about applying my academic insights and skills in the professional realm, working towards solving complex problems and optimizing processes using data-driven solutions. I aspire to be a part of a team that pushes the boundaries of technology, where creativity, collaboration, and innovation flourish.
+
 
 <!--
 **vivthuyh/vivthuyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
