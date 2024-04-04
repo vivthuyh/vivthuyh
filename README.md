@@ -1,5 +1,8 @@
 # 🤍 About Me:
- <br>I'm Vivian Huynh, current sophomore at the University of Arizona. I am studying information science with an emphasis in data science, along with a minor in computer science. <br><br> 💭 What I'm up to:<br>-Becoming proficient in Python, R, and HTML. <br><br>-Working towards getting my IBM certification in Data Science <br><br>-Beginning research on how bias occurs in machine learning 
+ <br>I'm Vivian Huynh, current sophomore at the University of Arizona. I am studying information science with an emphasis in data science, along with a minor in computer science. <br><br> 
+ 
+ ## 💭 What I'm up to:
+ -Becoming proficient in Python, R, and HTML. <br><br>-Working towards getting my IBM certification in Data Science <br><br>-Beginning research on how bias occurs in machine learning 
 
 
 ## ❕ Socials:
