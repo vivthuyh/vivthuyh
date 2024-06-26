@@ -3,7 +3,7 @@
  
  ## 💭 What I'm up to:
  -Becoming proficient in Python, R, and HTML. <br><br>-Working towards getting my IBM certification in Data Science <br><br>-Beginning research on how bias occurs in machine learning 
- -Started a passion project of making a 2D rouge-lite video game using Godot and Asesprite
+ <br><br>-Started a passion project of making a 2D rouge-lite video game using Godot and Asesprite
 
 
 ## ❕ Socials:
