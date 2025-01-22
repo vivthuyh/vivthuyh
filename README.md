@@ -1,5 +1,5 @@
 # 🤍 About Me:
-📍 Current sophomore at The University of Arizona<br>📚 Bachelor of Science in Information Sciences, emphasis in Data Science, minor in Computer Science<br><br>💭What I am currently up to: <br>- Becoming proficient in Python and R<br>- Working towards my IBM certification in Data Science<br>- Working towards my Google Data Analytics Certification<br>- Beginning research on bias in Machine Learning for my Honors Thesis
+📍 Current sophomore at The University of Arizona<br>📚 Bachelor of Science in Information Sciences, emphasis in Data Science, minor in Population Health Data Sciencee<br><br>💭What I am currently up to: <br>- Becoming proficient in Python and R<br>- Working in a data strategy lab as a research assistant<br>- Working on a sentiment analyis project to analyze advisor notes for implicit bias <br>- Beginning research on bias in Machine Learning for my Honors Thesis
 
 
 ## 🌐 Socials:
