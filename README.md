@@ -1,5 +1,5 @@
 # 🤍 About Me:
-📍 Current sophomore at The University of Arizona<br>📚 Bachelor of Science in Information Sciences, emphasis in Data Science, minor in Population Health Data Sciencee<br><br>💭What I am currently up to: <br>- Becoming proficient in Python and R<br>- Working in a data strategy lab as a research assistant<br>- Working on a sentiment analyis project to analyze advisor notes for implicit bias <br>- Beginning research on bias in Machine Learning for my Honors Thesis
+📍 Current junior at The University of Arizona<br>📚 Bachelor of Science in Information Sciences, emphasis in Data Science, minor in Population Health Data Sciencee<br><br>💭What I am currently up to: <br>- Becoming proficient in Python and R<br>- Working in a data strategy lab as a research assistant<br>- Currently diving into a sentiment analysis project, uncovering hidden insights in advisor notes to detect and address implicit bias. Exploring the intersection of natural language processing and equity to make data-driven impact! <br>- Beginning research on bias in Machine Learning for my Honors Thesis
 
 
 ## 🌐 Socials:
