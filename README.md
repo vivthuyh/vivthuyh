@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍 The University of Arizona<br>📚 Graduate information and data Science student <br>💡 Interest in public health and public intrest work <br><br>💭What I am currently up to:<br>- Working as a part-time data engineer on a CRM team<br>- Developing a thesis on if sentiment analysis can detect sacrasm, backhanded compliments, etc.<br>- Taking courses on applied and statistical NLP, machine learning, and cloud platforms <br>
+📍 The University of Arizona<br>📚 Graduate information and data science student <br>💡 Interest in public health and public intrest work <br><br>💭What I am currently up to:<br>- Working as a part-time data engineer on a CRM team<br>- Developing a thesis on if sentiment analysis can detect sacrasm, backhanded compliments, etc.<br>- Taking courses on applied and statistical NLP, machine learning, and cloud platforms <br>
 
 
 ## 🌐 Socials:
