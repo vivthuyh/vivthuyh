@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍 The University of Arizona<br>📚 Graduate information and data science student <br> ✈️Data Engineering Intern @ Boeing <br>💡 Interest in public health and public interest work <br><br>💭What I am currently up to:<br>- Working as a part-time data engineer on a CRM team<br>- Developing a thesis on the limitations of how accurately ML and LLM models can detect sacrasm, backhanded compliments, etc.<br>- Taking courses on statistical NLP, machine learning, and cloud platforms <br>
+📍 The University of Arizona<br>📚 Graduate information and data science student <br> ✈️ Incoming Data Engineering Intern @ Boeing <br>💡 Interest in public health and public interest work <br><br>💭What I am currently up to:<br>- Working as a part-time data engineer on a CRM team<br>- Developing a thesis on the limitations of how accurately ML and LLM models can detect sacrasm, backhanded compliments, etc.<br>- Taking courses on statistical NLP, machine learning, and cloud platforms <br>
 
 
 ## 🌐 Socials:
