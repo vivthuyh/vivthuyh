@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍The University of Arizona <br>📚 Graduate Information and Data Science Student <br>💡Pursuing a career in public interest, health, and civic technology<br><br>💭What I am currently up to: <br>- Incoming data engineering intern @ Boeing <br>- Working as a part-time data engineer on a CRM team during the school year<br>- Consistently working on personal projects that will be uploaded to Github<br>- Taking courses on statistical NLP, machine learning, and cloud platforms
+📍The University of Arizona <br>📚 Graduate Information and Data Science Student <br>💡Pursuing a career in public interest, health, and civic technology<br><br>💭What I am currently up to: <br>- Previously IT intern @ Boeing <br>- Working as a part-time data engineer on a CRM team during the school year<br>- Consistently working on personal projects that will be uploaded to Github<br>- Taking courses on cybersecurity, machine learning, and cloud platforms
 
 
 ## 🌐 Socials:
